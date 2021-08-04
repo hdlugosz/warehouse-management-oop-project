@@ -1,0 +1,59 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "DlugoszHubert-etap2",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "DlugoszHubert-etap2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DlugoszHubert-etap2-Debug-7b7bc5cf29b5602440fd.json",
+					"name" : "DlugoszHubert-etap2",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "F:/III_semestr/OBIEKTOWE/DlugoszHubert-etap2/out/build/x64-Debug (domyślnie)",
+		"source" : "F:/III_semestr/OBIEKTOWE/DlugoszHubert-etap2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}

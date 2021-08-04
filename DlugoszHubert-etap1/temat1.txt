@@ -1,0 +1,15 @@
+W celu realizacji projektu magazynu przechowującego towary stworzyłem dwie klasy: "Towar" oraz "Magazyn"
+
+Pierwszym etapem było zdefiniowanie zawartości wyżej wymienionych klas. W klasie "Towar" oprócz zmiennych(nazwa, ID, ilość) zawarłem m.in. przeciążenia operatorów '+=', '-=', 
+które służą dodawaniu i odejmowaniu ilości towaru, oraz zaprzyjaźnioną funkję będącą przeciążeniem operatora "<<" w celu łatwiejszego wypisywania 
+danych dot. towaru. Klasa "Magazyn" zawiera vector obiektów typu Towar o domyślnej wielkości 0, która później ulega zmianie. W klasie Magazyn znajdują się metody: 
+wstawiająca nowy produkt do magazynu(Insert), dodająca ilość produktu(Add), odejmujmąca ilość produktu(Remove), 
+wyświetlająca zawartość magazynu(Show) oraz metoda getSize() zwracająca rozmiar magazynu.
+
+Zawartość metod Add oraz Remove klasy Magazyn jest dość obszerna. Wynika to z tego, iż postanowiłem każdy warunek poprawności przekazanych danych sprawdzić osobno 
+i w każdym przypadku wypisać odpowiednią informację. Dodatkowo metody te są typu bool, gdyż zwracają true, gdy żądana operacja się powiedzie oraz false w przeciwnym przypadku.
+
+W pliku main.cpp znajduje się menu z możliwością wyboru. Każdy wybór jest zdefiniowany jako osobna funkcja - z reguły funkcje te sprowadzają się do pobrania danych od 
+użytkownika i przekazania ich do odpowiednich metod. Dodatkowo dane pobierane od użytkownika pobierane są przy pomocy funkcji readInt oraz readString.
+
+

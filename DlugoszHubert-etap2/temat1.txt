@@ -1,0 +1,4 @@
+Pierwszym etapem pracy nad projektem było zdefiniowanie pochodnych klas reprezentujących towary oraz przemyślenie działania ID, 
+aby było unikalne w obrębie wszystkich magazynów. Nadawanie ID produktów zmieniłem tak, aby nie magazyn był za to odpowiedzialny, tylko obiekty pochodne klasy Produkt. 
+Następnym etapem było zaprojektowanie paleciaka, aby działał pomiędzy magazynami. Ostatnim etapem było przeprojektowanie maina aby mogl zarzadzac magazynami,
+dodanie do niego nowych użyteczności oraz wyłapanie i naprawienie błędów. 

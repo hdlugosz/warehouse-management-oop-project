@@ -1,0 +1,5 @@
+Pierwszym etapem pracy było zdefiniowanie struktur reprezentujących wyjątki. 
+Wyjątki rzucane są w miejscach w których sprawdzana jest poprawność wprowadzonych danych, natomiast łapane w pliku main - 
+w miejscach w których wywoływane są poszczególne funkcje. 
+Natomiast szablon reprezentuje prosty kontener, który w programie jest wykorzystywany do przechowywania unikalnych ID 
+oraz nazw produktów pomiędzy wszystkimi magazynami. 

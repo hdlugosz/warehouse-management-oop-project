@@ -1,0 +1,13 @@
+# ninja log v5
+21	2562	630718919	CMakeFiles/DlugoszHubert-etap2.dir/Towar.cpp.obj	295cd0870db4351c
+40	2571	630718919	CMakeFiles/DlugoszHubert-etap2.dir/TowarSypki.cpp.obj	a413a51823ac816c
+1	2735	630718919	CMakeFiles/DlugoszHubert-etap2.dir/main.cpp.obj	c375a168dcb43429
+8	2737	630718919	CMakeFiles/DlugoszHubert-etap2.dir/Produkt.cpp.obj	17b177c376fe2667
+14	2739	630718919	CMakeFiles/DlugoszHubert-etap2.dir/Magazyn.cpp.obj	f4c24dadb7e3d1d5
+28	2746	630718919	CMakeFiles/DlugoszHubert-etap2.dir/Paleciak.cpp.obj	b9dd019cf60d33d2
+2563	3963	630718921	CMakeFiles/DlugoszHubert-etap2.dir/TowarCiekly.cpp.obj	585da6d3de148e3d
+4062	7162	630718923	DlugoszHubert-etap2.exe	94ebff3189371641
+13	1860	630719746	CMakeFiles/DlugoszHubert-etap2.dir/Towar.cpp.obj	295cd0870db4351c
+7	1876	630719746	CMakeFiles/DlugoszHubert-etap2.dir/Magazyn.cpp.obj	f4c24dadb7e3d1d5
+0	1878	630719746	CMakeFiles/DlugoszHubert-etap2.dir/main.cpp.obj	c375a168dcb43429
+1878	2630	630719747	DlugoszHubert-etap2.exe	94ebff3189371641
